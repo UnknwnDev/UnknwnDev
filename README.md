@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Samuel Mbugua, a student at DigiPen Institute of Technology, on a thrilling journey to explore the convergence of Computer Science and Machine Learning. 🎓💻
+I'm UnknwnDev, a student at DigiPen Institute of Technology, on a thrilling journey to explore the convergence of Computer Science and Machine Learning. 🎓💻
 
 🚀 My goal is to leverage cutting-edge technology to solve real-world problems, and my academic pursuits are paving the way for me to make a meaningful impact in the field. 🌐
 
